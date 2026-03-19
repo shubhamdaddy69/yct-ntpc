@@ -1,1 +1,1 @@
-# yct-ntpc
+YCT NTPC+SSC
